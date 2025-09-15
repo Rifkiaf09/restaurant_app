@@ -29,9 +29,12 @@ The app includes restaurant listing, search, detail pages, favorites management,
 ## 📷 Screenshots
 > Replace with your own app screenshots
 
+## 📸 Screenshots
+
 | Home | Detail | Favorites | Settings | Search |
 |------|--------|-----------|----------|--------|
-| ![Home](docs/screenshots/home.jpeg) | ![Detail](docs/screenshots/detail.jpeg) | ![Favorites](docs/screenshots/favorites.jpeg) | ![Settings](docs/screenshots/settings.jpeg) | ![Search](docs/screenshots/search.jpeg) |
+| ![Home](docs/home.jpeg) | ![Detail](docs/detail.jpeg) | ![Favorites](docs/favorites.jpeg) | ![Settings](docs/settings.jpeg) | ![Search](docs/search.jpeg)
+
 
 ---
 
