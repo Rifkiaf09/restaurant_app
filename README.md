@@ -1,16 +1,66 @@
-# restaurant_app
+# 🍽️ Restaurant App
 
-A new Flutter project.
+A Flutter application that displays restaurant information using the [Dicoding Restaurant API](https://restaurant-api.dicoding.dev).  
+The app includes restaurant listing, search, detail pages, favorites management, and user reviews.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 📋 View restaurant list
+- 🔍 Search restaurants by name
+- 🏷️ View restaurant details (menu, reviews, etc.)
+- ❤️ Add & remove restaurants from favorites
+- 📝 Submit customer reviews
+- ⚙️ Settings with theme switching (light/dark)
+- 🔔 Local notifications & background service with WorkManager
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Flutter** (Dart, Material 3)
+- **Provider** for state management
+- **SQLite** for local favorites database
+- **WorkManager** for background tasks
+- **Flutter Local Notifications** for reminders
+- **HTTP** for API requests
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📷 Screenshots
+> Replace with your own app screenshots
+
+| Home | Detail | Favorites | Settings | Search |
+|------|--------|-----------|----------|--------|
+| ![Home](docs/screenshots/home.jpeg) | ![Detail](docs/screenshots/detail.jpeg) | ![Favorites](docs/screenshots/favorites.jpeg) | ![Settings](docs/screenshots/settings.jpeg) | ![Search](docs/screenshots/search.jpeg) |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/USERNAME/restaurant_app.git
+cd restaurant_app
+```
+
+---
+
+## 📚 API Reference
+
+- Data source: Dicoding Restaurant API
+
+- GET /list → All restaurants
+
+- GET /detail/{id} → Restaurant detail
+
+- GET /search?q={query} → Search restaurants
+
+- POST /review → Submit a review
+
+---
+
+## 👨‍💻 Author
+
+Developed by Rifki Ahmad
+
+Part of Flutter & Dicoding Learning Journey
