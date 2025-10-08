@@ -26,9 +26,6 @@ The app includes restaurant listing, search, detail pages, favorites management,
 
 ---
 
-## 📷 Screenshots
-> Replace with your own app screenshots
-
 ## 📸 Screenshots
 
 | Home | Detail | Favorites | Settings | Search |
